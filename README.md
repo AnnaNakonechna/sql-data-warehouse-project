@@ -1,7 +1,7 @@
-📊 Data Warehouse & Analytics Project
+#📊 Data Warehouse & Analytics Project
 
-This project demonstrates a comprehensive data warehousing and analytics solution — from building a data warehouse to generating actionable business insights.
-Designed as a portfolio project to highlight industry best practices in data engineering and analytics.
+#This project demonstrates a comprehensive data warehousing and analytics solution — from building a data warehouse to generating actionable business insights.
+#Designed as a portfolio project to highlight industry best practices in data engineering and analytics.
 🚀 Project Requirements
 🏗 Building the Data Warehouse (Data Engineering)
 🎯 Objective
